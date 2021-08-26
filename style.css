@@ -45,3 +45,27 @@ p>a{
 .margin{
     margin: 10px;
 }
+.HTML{
+    background-color: burlywood;
+}
+.CSS{
+    background-color: darksalmon;
+}
+.Linux{
+    background-color: lemonchiffon;
+}
+.agiles{
+    background-color: peachpuff;
+}
+.color{
+    color: deeppink;
+}
+.font{
+    font-family: cursive;
+}
+.size{
+    font-size: 50pt;
+}
+.bold{
+    font-weight: 900;
+}

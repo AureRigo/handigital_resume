@@ -1,6 +1,10 @@
 header{
     display: flex;
     flex-direction: row;
+    border-bottom: solid black;
+}
+main{
+    border-bottom: solid black;
 }
 ul{
     display: flex;
@@ -24,4 +28,17 @@ p{
 }
 a{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15pt;
+}
+footer>p{
+    font-size: 10pt;
+}
+footer>a{
+    font-size: 10pt;
+}
+p>a{
+    font-size: 10pt;
+}
+.margin{
+    margin: 10px;
 }

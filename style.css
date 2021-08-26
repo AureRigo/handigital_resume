@@ -30,6 +30,9 @@ a{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 15pt;
 }
+img{
+    width: 15%;
+}
 footer>p{
     font-size: 10pt;
 }
